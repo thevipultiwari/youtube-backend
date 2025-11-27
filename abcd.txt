@@ -1,0 +1,5 @@
+StackBlitz- online platform like vs code
+cloudinary - cloud service for image and video upload
+
+read multer from github documentation-
+https://github.com/expressjs/multer
