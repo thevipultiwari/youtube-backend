@@ -2,3 +2,5 @@ Mongoose is a popular ODM (Object Data Modeling) library for MongoDB + Node.js.
 
 👉 MongoDB is the database
 👉 Mongoose is the tool that helps you talk to the database in an easier, safer, structured way
+
+aggregation pipleine mein mongoose kaam nahi krta hai uha mongoose ki jo id hai bo banani padegi
